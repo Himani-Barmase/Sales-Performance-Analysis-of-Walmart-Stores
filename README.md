@@ -32,7 +32,6 @@ The dataset includes customer demographics, product lines, payment methods, and 
 ## 🎥 Deliverables
 - ✅ SQL Queries and Results in PPT
 - ✅ 5-Minute Video Explanation
-- ✅ Zipped Folder with All Files
 
 ## 📌 Note
 This project was developed as part of a data analytics capstone, focusing on deriving insights through structured SQL queries and business reasoning.
